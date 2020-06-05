@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>My favorite book</title>
+</head>
+<style>
+body {
+  background-color: lightgrey
+}
+nav {
+  list-style-type: none;
+  font-weight: bold;
+  margin: 0;
+  padding: 0; }
+#Wisdom {
+color: #200ee6;
+  font-weight: bold; }
+p {
+  font-size: 21px; }
+div ul {
+  background:lightblue;
+  font-size: 18px; }
+div ol {
+  background:lightblue;
+  font-size: 18px; }
+ol.b {
+  list-style-type: upper-roman; }
+section p{
+  background-color: #e8faaf; }
+h1 {
+  border: 1px solid black;
+  margin: 15px;
+  font-weight: bold;
+  padding: 10px 20px 20px 50px;
+  background-color: lightblue; }
+h2 {
+  font-size: 19px;
+  border: 1px solid white;
+  margin-top: 35px;
+  padding: 10px 20px 20px 40px;
+  background-color: red; }
+</style>
+<body>
+<header>
+<div>
+   <h1>My favourite book</h1>
+<nav>
+  <a href="http://www.kingdompersonalityhub.net/index.php/2019/10/12/how-to-live-a-predictable-life-part-seven//">Read more</a>   |
+  <a href="http://www.kingdompersonalityhub.net//">Visit the website </a>  |  <a href="http://www.kingdompersonalityhub.net//">How to plan smart </a>   |
+</nav>
+</div>
+
+<div class = "Life">
+ <h2>Life is predictable .. <i>Dr. Sunday Adelaja</i></h2>
+<ul class="a">
+  <li>“Man must cease attributing his problems to his environment, and learn again to exercise his will – his personal responsibility.” – Albert Einstein </li>
+  <li>“Your life is a result of life`s principles that you either observed or violated.” – Dr Sunday Adelaja</li>
+  <h4 id="emoji">&#x1F600</h4>
+</ul>
+</div>
+
+  </header>
+
+<main>
+  
+    <h3>Positive Mind <span style="color:blue">Positive vibes</span> Positive Life</h3>
+   <p>The outcome of life navigates either towards success or failure. Since the predictability of the outcome life is possible by original design as we have discovered. Therefore on this premise, the navigation of the outcome of life either towards success or failure is predictable. 
+   </p>
+   <p> 
+    <strong> What this connotes is that success or failure in life is predictable.</strong><span style="color:blue;">The predictable outcome of life as either a success or failure is your responsibility.</span>  In other words, you are responsible for the level of success or failure you achieve in life. <span style="color:red;">It is not in the hands of external forces but rather it is up to you.</span>
+   </p>
+ 
+<article>
+  <section class = "Life">
+     <h2>Navigating towards success or failure </h2> 
+    <p> All aspects of life navigate towards success or failure for you depending on your stand and response in relation to the fixed principles that governs that aspect of life. Lеаrn tо Sасrіfісе: Nо реrѕоn саn become great оr ѕuссеѕѕful, wіthоut ѕасrіfісіng ѕоmеthіng оr the other. Life іѕ not a bеd of rоѕеѕ. Here, уоu hаvе to lоѕе something, tо gаіn ѕоmеthіng</p> 
+    <h3>Determination for a change</h3>
+    <p> Where is your stand? What is your response like? Are you willing to commit yourself to discovering, understanding and applying fixed principles? The choice is all your to make. I strongly believe you will make the right choice, thereby gaining mastery on how to live a predictable life. </p>
+</section>
+  
+</article>
+<section>
+
+<button type="button" onclick="alert('Hello world!')">Make a choice to plan or fail!</button>
+
+<img src= "https://i.imgur.com/biRRCvxb.jpg"/>
+</section>
+<section id = "Wisdom">
+  <h3>Wisdom and Maturity</h3>
+<p>
+  “A sign of wisdom and maturity is when you come to terms with the realization that your decisions cause your rewards and consequences. 
+  You are responsible for your life, and your ultimate success depends on the choices you make.” – Denis Waitley American motivational speaker, writer and consultant. 
+</p>
+  <br>“We are not given a good life or a bad life. We are given a life. It’s up to us to make it good or bad.” – Devika Fernando, Kaleidoscope of Hopes
+
+</p>
+</section>
+
+
+<section class = "predictable">
+<img src= "https://i.imgur.com/zXwrbYIb.jpg"/>
+  <div>
+    <h3>life is predictable </h3>
+    <p>life is predictable quotes</p>
+     <ol ul class="b">
+      <li>One of the most predictable things in life is change</li>
+      <li>You are better off if you can have a say in the change.</li>
+      <li>Don't be ignorant or naive, effect the change now</li>
+     </ol>
+     <p>Value Addіtіоn: Whаtеvеr уоur аgе mауbе, whаtеvеr уоur сіrсumѕtаnсеѕ mауbе, trу tо аdd vаluе іn yourself. Lеаrn ѕmаll things, dо ѕmаll stuffs, аnd аlwауѕ аѕk уоurѕеlf, “Iѕ this асtіоn оf mіnе, gоіng to аdd vаluе іn mе or nоt?” Alwауѕ remember, оnсе you wіll stop growing, уоu wіll start gеttіng older.</p>
+  </div>
+</section>
+
+</body>
+</html>
